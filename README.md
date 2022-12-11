@@ -1,0 +1,2 @@
+# clone-repo
+pertama kali
